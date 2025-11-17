@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Luciano Alves Vieira]!
+# 👋 Olá, eu sou Luciano Alves Vieira!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-alves-vieira-6b33b0121/)
 
@@ -6,9 +6,8 @@
 
 Sou um(a) apaixonado(a) por matemática e tecnologia. Atualmente trabalho como [Analista de dados] e estou sempre buscando aprender novas tecnologias e participar de projetos interessantes.
 
-- 🔭 Atualmente trabalhando em: [Banco do Brasil]
-- 🌱 Aprendendo: [Python, C, C++, COBOL]
-- 👯 Buscando colaborar em: [tipo de projetos]
+- 🔭 Atualmente trabalhando em: Banco do Brasil
+- 🌱 Aprendendo: Python, C, C++, COBOL
 - ♟️ **Perfil no Chess.com:** [lvieirace](https://www.chess.com/member/lvieirace)
 
 ## 🛠️ Tecnologias & Ferramentas
