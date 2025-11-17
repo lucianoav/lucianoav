@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou [Luciano Alves Vieira]!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/luciano-alves-vieira-6b33b0121/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-alves-vieira-6b33b0121/)
 
 ## 🚀 Sobre Mim
 
