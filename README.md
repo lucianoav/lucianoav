@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um(a) apaixonado(a) por matemática e tecnologia. Atualmente trabalho como [Analista de dados] e estou sempre buscando aprender novas tecnologias e participar de projetos interessantes.
+Sou um(a) apaixonado(a) por matemática e tecnologia. Atualmente trabalho como Analista de dados e estou sempre buscando aprender novas tecnologias e participar de projetos interessantes.
 
 - 🔭 Atualmente trabalhando em: Banco do Brasil
 - 🌱 Aprendendo: Python, C, C++, COBOL
