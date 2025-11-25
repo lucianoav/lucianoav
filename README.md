@@ -22,11 +22,4 @@ Sou um(a) apaixonado(a) por matemática e tecnologia. Atualmente trabalho como A
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-007CC0?style=for-the-badge&logo=sas&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianoav&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoav&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
 ⭐️ Desenvolvido por [Luciano Alves Vieira](https://github.com/lucianoav)
