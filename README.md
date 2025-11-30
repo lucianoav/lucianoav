@@ -7,7 +7,7 @@
 Sou um(a) apaixonado(a) por matemática e tecnologia. Atualmente trabalho como Analista de dados e estou sempre buscando aprender novas tecnologias e participar de projetos interessantes.
 
 - 🔭 Atualmente trabalhando em: Banco do Brasil
-- 🌱 Aprendendo: Python, C, C++, COBOL
+- 🌱 Aprendendo: Python
 - ♟️ **Perfil no Chess.com:** [lvieirace](https://www.chess.com/member/lvieirace)
 
 ## 🛠️ Tecnologias & Ferramentas
